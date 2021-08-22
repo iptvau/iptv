@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BloombergTVEMEALiveEvent.us" tvg-name="Bloomberg TV EMEA Live Event" tvg-country="EMEA" tvg-language="English" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="Business",Bloomberg TV EMEA Live Event (720p)
+https://www.bloomberg.com/media-manifest/streams/eu-event.m3u8
+#EXTINF:-1 tvg-id="ACCTV.au" tvg-name="ACCTV (Melbourne)" tvg-country="AU" tvg-language="English" tvg-logo="http://www.acc.tv/wp-content/uploads/2016/06/acctv-logo-web.png" group-title="Religious",ACCTV (Melbourne) (720p)
+https://iptv-all.lanesh4d0w.codes/australia/acctv-melbourne
+#EXTINF:-1 tvg-id="CBNFamily.us" tvg-name="CBN Family" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/XpS19dt.png" group-title="Religious",CBN Family (1080p)
+https://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+#EXTINF:-1 tvg-id="CBNNews.us" tvg-name="CBN News" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/cbnnews.png" group-title="Religious",CBN News (1080p)
+http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
+#EXTINF:-1 tvg-id="GODTV.us" tvg-name="GOD TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ZMYRG9h.jpg" group-title="Religious",GOD TV (720p)
+https://zypelive-lh.akamaihd.net/i/default_1@710958/master.m3u8
+#EXTINF:-1 tvg-id="GodTVUK.uk" tvg-name="God TV UK" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="Religious",God TV UK (720p)
+https://zypelive-lh.akamaihd.net/i/default_1@745545/master.m3u8
+#EXTINF:-1 tvg-id="HillsongChannel.us" tvg-name="Hillsong Channel" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TBN_Hillsong_360x360.png?raw=true" group-title="Religious",Hillsong Channel (1080p)
+https://api.new.livestream.com/accounts/27460990/events/8266909/live.m3u8
+#EXTINF:-1 tvg-id="HopeChannelInternational.us" tvg-name="Hope Channel International" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/pLeCUEV.png" group-title="Religious",Hope Channel International (1080p)
+https://hcintlinc.mmdlive.lldns.net/hcintlinc/60f14a7fec64454e90712421a46ac6f1/manifest.m3u8
+#EXTINF:-1 tvg-id="TBNUS.us" tvg-name="TBN US" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/zlZi5RN.jpg" group-title="Religious",TBN US (1080p)
+https://api.new.livestream.com/accounts/27460990/events/8266920/live.m3u8
