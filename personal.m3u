@@ -21,5 +21,15 @@ https://api.new.livestream.com/accounts/27460990/events/8266909/live.m3u8
 https://hcintlinc.mmdlive.lldns.net/hcintlinc/60f14a7fec64454e90712421a46ac6f1/manifest.m3u8
 #EXTINF:-1 tvg-id="CornerstoneTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/cV8FKR9.png" group-title="Religious",Cornerstone TV (720p)
 http://cdn.media9.truegod.tv/ctvnlive/smil:ctvn.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="3ABNInternational.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/vhb8zvB.png" group-title="Religious",3ABN International (720p)
+https://moiptvhls-i.akamaihd.net/hls/live/652312/secure/master.m3u8
+#EXTINF:-1 tvg-id="3ABNPraiseHimMusicChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/t6Ydwqg.png" group-title="Religious",3ABN Praise Him Music Channel (720p)
+https://moiptvhls-i.akamaihd.net/hls/live/554145/secure/playlist.m3u8
+#EXTINF:-1 tvg-id="K17JIDT2.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/KiMtKUL.png" group-title="Religious",3ABN Proclaim! (720p)
+https://moiptvhls-i.akamaihd.net/hls/live/652317/secure/master.m3u8
+#EXTINF:-1 tvg-id="BetterLifeTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/gmrVKEC.jpg" group-title="Religious",Better Life TV (720p)
+https://uni10rtmp.tulix.tv/betterlife/betterlife.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CTN.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Bj37ZMY.png" group-title="Religious",CTN (720p)
+https://rrsatrtmp.tulix.tv/ctntv/ctntvmulti.smil/playlist.m3u8
 
 
