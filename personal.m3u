@@ -15,3 +15,7 @@ https://api.new.livestream.com/accounts/27460990/events/8266909/live.m3u8
 https://hcintlinc.mmdlive.lldns.net/hcintlinc/60f14a7fec64454e90712421a46ac6f1/manifest.m3u8
 #EXTINF:-1 tvg-id="TBNUS.us" tvg-name="TBN US" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/zlZi5RN.jpg" group-title="Religious",TBN US (1080p)
 https://api.new.livestream.com/accounts/27460990/events/8266920/live.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC World News" tvg-country="US" tvg-language="English" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1045.1565613151.png" group-title="News",BBC World News (720p)
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+
+
